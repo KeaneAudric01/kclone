@@ -51,7 +51,7 @@ Shell scripts for automated backup to cloud storage using rclone. Supports both 
 4. Clone the repository:
     ```sh
     git clone https://github.com/KeaneAudric01/kclone.git
-    cd backup-scripts
+    cd kclone
     ```
 
 5. Make the scripts executable:
